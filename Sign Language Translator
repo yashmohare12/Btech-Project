@@ -1,0 +1,6 @@
+Sign Language Translator Using Machine Learning Approach=
+
+Sign language translation (SLT) is an important application to bridge the communication gap between deaf and hearing people
+Sign Language (SL) is a subset of gestures or signs made with fingers, hands, arms, eyes, and head, face etc.
+The proposed system tries to do a real time translation of hand gestures into equivalent English text and speech. This system takes hand gestures as input through video and translates it text  and speech which could be understood by a non-signer. 
+We are going to come up with real time method using neural networks for finger spelling the sign language.
