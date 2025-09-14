@@ -4,3 +4,12 @@ Sign language translation (SLT) is an important application to bridge the commu
 Sign Language (SL) is a subset of gestures or signs made with fingers, hands, arms, eyes, and head, face etc.
 The proposed system tries to do a real time translation of hand gestures into equivalent English text and speech. This system takes hand gestures as input through video and translates it text  and speech which could be understood by a non-signer. 
 We are going to come up with real time method using neural networks for finger spelling the sign language.
+
+
+The main objective is to translate sign language to text / speech.
+The framework provides a helping-hand for speech-impaired to communicate with the rest of the world using sign language. 
+This leads to the elimination of the middle person who generally acts as a medium of translation.
+The aim is to develop user friendly vision based interface where the computer understand the sign language and translate it to the needed people.
+
+
+
